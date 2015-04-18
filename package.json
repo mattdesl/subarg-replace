@@ -1,0 +1,40 @@
+{
+  "name": "subarg-replace",
+  "version": "1.0.0",
+  "description": "regex replace on subarg list",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "subarg",
+    "list",
+    "replace",
+    "modify",
+    "change",
+    "delete",
+    "remove",
+    "arg",
+    "args",
+    "argv",
+    "minimist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/subarg-replace.git"
+  },
+  "homepage": "https://github.com/mattdesl/subarg-replace",
+  "bugs": {
+    "url": "https://github.com/mattdesl/subarg-replace/issues"
+  }
+}
